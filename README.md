@@ -36,4 +36,3 @@
 `/assignExecutors/{id}` - назначить исполнителя
 
 
-package ru.georgdeveloper.taskapp.configure;
